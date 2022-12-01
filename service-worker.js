@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/bmi-calculator/precache-manifest.353c984f63bbb349aaba371ed5c5eb82.js"
+  "/bmi-calculator/precache-manifest.d237c88842f091a40cd25cc618bb8924.js"
 );
 
 self.addEventListener('message', (event) => {
